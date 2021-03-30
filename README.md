@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![my github stats](https://github-readme-stats.vercel.app/api?username=varenyzc)](https://github.com/anuraghazra/github-readme-stats)
+[![my github stats](https://github-readme-stats.vercel.app/api?username=varenyzc)](https://varen.top)
 
 <!--
 **varenyzc/varenyzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
