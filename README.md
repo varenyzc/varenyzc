@@ -2,6 +2,7 @@
 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=varenyzc)](https://www.varen.top)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varenyzc)](https://github.com/varenyzc)
 <!--
 **varenyzc/varenyzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
